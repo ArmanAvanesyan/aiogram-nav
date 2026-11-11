@@ -1,3 +1,5 @@
+> **Repository migrated:** Active development and independent `aiogram-nav` releases now live in [aiogram-kit](https://github.com/ArmanAvanesyan/aiogram-kit/tree/main/packages/aiogram-nav). Historical PRs, releases and assets remain here. See the [migration map](https://armanavanesyan.github.io/aiogram-kit/legacy-links/).
+
 # aiogram-nav
 
 Standalone screen navigation for aiogram 3, with a typed registry, memory or Redis
